@@ -4,7 +4,7 @@
 
 *skill 1*
 
-    This is our code block
+    This is our _code block
 
 [The Link](http://google.com)
 
